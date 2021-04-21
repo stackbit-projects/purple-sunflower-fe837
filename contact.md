@@ -22,7 +22,7 @@ sections:
       - input_type: select
         name: Thema
         label: Thema
-        default_value: Please select
+        default_value: Bitte auswählen
         options:
           - Error on the site
           - Sponsorship
