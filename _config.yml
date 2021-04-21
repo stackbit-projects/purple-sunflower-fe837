@@ -58,9 +58,8 @@ header:
       new_window: true
 footer:
   content: >-
-    &copy; Stackbit. <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="no<a
+    &copy; LBLB | <a href="https://www.stackbit.com/?utm_source=deployed-footer"
+    target="_blank" rel="no<a
     href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
     target="_blank" rel="noopener">now</a>
 sass:
