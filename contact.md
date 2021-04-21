@@ -20,7 +20,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: select
-        name: subject
+        name: Thema
         label: Thema
         default_value: Please select
         options:
