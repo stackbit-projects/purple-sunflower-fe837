@@ -17,7 +17,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: E enieD
+        default_value: Deine E-Mail Adresse
         is_required: true
       - input_type: select
         name: Thema
