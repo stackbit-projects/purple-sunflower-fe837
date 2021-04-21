@@ -51,7 +51,7 @@ footer:
     &copy; LBLB <a href="https://www.stackbit.com/?utm_source=deployed-footer"
     target="_blank" rel="no<a
     href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>
+    target="_blank" rel="noopener"></a>
 sass:
   indentWidth: 4
   style: nested
