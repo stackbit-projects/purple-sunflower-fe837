@@ -26,7 +26,7 @@ header:
     - label: About
       url: /about/
       style: link
-    - label: Contact
+    - label: Kontakt
       url: /contact/
       style: link
   has_social: true
