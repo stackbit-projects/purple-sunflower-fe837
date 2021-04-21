@@ -56,12 +56,7 @@ header:
       style: icon
       icon_class: dev
       new_window: true
-footer:
-  content: >-
-    &copy; LBLB <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-    target="_blank" rel="no<a
-    href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>
+footer: {}
 sass:
   indentWidth: 4
   style: nested
