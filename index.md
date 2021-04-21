@@ -16,7 +16,7 @@ sections:
 
       Lorem Ipsum usw...
     actions:
-      - label: Contact Me
+      - label: Kontaktiere uns
         url: /contact
         style: button
   - section_id: recent-posts
