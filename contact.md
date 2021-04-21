@@ -26,7 +26,7 @@ sections:
         options:
           - Fehler auf der Seite
           - Idee / Vorschlag
-          - Other
+          - Sonstiges
           - lorem-ipsum
       - input_type: textarea
         name: message
