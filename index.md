@@ -29,7 +29,7 @@ sections:
         style: button
 seo:
   title: LBLB - Struggle.Zone
-  description: The preview of the Fresh theme
+  description: LBLB - IT
   extra:
     - name: 'og:type'
       value: website
