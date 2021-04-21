@@ -56,7 +56,8 @@ header:
       style: icon
       icon_class: dev
       new_window: true
-footer: {}
+footer:
+  content: TEST
 sass:
   indentWidth: 4
   style: nested
