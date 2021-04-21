@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, this is LBLB!'
+    title: 'Hi, wir sind LBLB!'
     content: >
       Willkommen auf unserem neuen Portal mit Hilfestellungen und
       Gedankenstützen für angehende ITler.
