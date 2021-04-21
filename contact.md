@@ -27,7 +27,7 @@ sections:
           - Fehler auf der Seite
           - Idee / Vorschlag
           - Sonstiges
-          - lorem-ipsum
+          - Sponsoring
       - input_type: textarea
         name: message
         label: Nachricht
