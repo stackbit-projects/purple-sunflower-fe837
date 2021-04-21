@@ -24,7 +24,7 @@ sections:
         label: Thema
         default_value: Bitte auswählen
         options:
-          - Error on the site
+          - Fehler auf der Seite
           - Sponsorship
           - Other
       - input_type: textarea
