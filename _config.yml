@@ -41,7 +41,7 @@ header:
       style: icon
       icon_class: github
       new_window: true
-    - label: lorem-ipsum
+    - label: YouTube
       url: '#'
       style: link
       icon_class: dev
