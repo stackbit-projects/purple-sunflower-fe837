@@ -24,7 +24,7 @@ sections:
     title: Letzte posts
     posts_number: 4
     actions:
-      - label: View Blog
+      - label: blog ansehen
         url: blog/index.html
         style: button
 seo:
