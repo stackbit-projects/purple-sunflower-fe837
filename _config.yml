@@ -36,7 +36,7 @@ header:
       style: icon
       icon_class: twitter
       new_window: true
-    - label: YouTube
+    - label: YT
       url: 'https://www.youtube.com/eskiDMO'
       style: link
       icon_class: youtube
