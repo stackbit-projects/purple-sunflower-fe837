@@ -44,7 +44,7 @@ header:
       no_follow: false
       type: action
     - label: Twitch
-      url: '#'
+      url: '#twitch.tv/eskimoooPlay'
       style: link
       icon_class: dev
       new_window: false
