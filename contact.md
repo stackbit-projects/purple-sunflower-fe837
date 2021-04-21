@@ -37,7 +37,7 @@ sections:
         label: >-
           Ich bestätige, dass diese Seite meine Informationen zum Kontakt
           speichern darf.
-    submit_label: Send Message
+    submit_label: Senden
 seo:
   title: Contact
   description: This is the contact page
