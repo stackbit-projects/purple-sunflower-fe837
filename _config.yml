@@ -28,7 +28,7 @@ header:
       style: link
     - url: /contact/
       style: link
-      label: hexx
+      label: Kontakt
   has_social: true
   social_links:
     - label: Twitter
