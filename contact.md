@@ -29,7 +29,7 @@ sections:
           - Sonstiges
           - Sponsoring
       - input_type: textarea
-        name: message
+        name: Nachricht
         label: Nachricht
         default_value: Your message
       - input_type: checkbox
