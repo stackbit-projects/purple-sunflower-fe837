@@ -45,7 +45,7 @@ header:
       url: 'https://www.youtube.com/eskiDMO'
       style: link
       icon_class: youtube
-      new_window: false
+      new_window: true
       no_follow: false
       type: action
 footer:
