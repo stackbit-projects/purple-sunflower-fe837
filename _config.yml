@@ -58,7 +58,7 @@ header:
       new_window: true
 footer:
   content: >-
-    &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
+    &copy; Stackbit.  <a
     href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
     rel="no<a
     href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
