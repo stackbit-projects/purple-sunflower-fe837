@@ -23,7 +23,7 @@ header:
     - label: Sonstiges
       url: /style-guide/
       style: link
-    - label: About
+    - label: Über
       url: /about/
       style: link
     - label: Kontakt
